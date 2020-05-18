@@ -35,7 +35,7 @@ body {
     height: 50px;
     bottom: 0;
     background-color: rgba(0, 0, 0, .5);
-    border-radius: 0 0 5px 5px;
+    /* border-radius: 0 0 5px 5px; */
 }
 
 .video-player .menu div {
